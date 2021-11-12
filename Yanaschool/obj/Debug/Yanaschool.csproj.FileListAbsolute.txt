@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Yanaschool\Yanaschool\bin\Debug\Yanaschool.exe.config
+C:\Users\HP\source\repos\Yanaschool\Yanaschool\bin\Debug\Yanaschool.exe
+C:\Users\HP\source\repos\Yanaschool\Yanaschool\bin\Debug\Yanaschool.pdb
+C:\Users\HP\source\repos\Yanaschool\Yanaschool\obj\Debug\Yanaschool.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Yanaschool\Yanaschool\obj\Debug\Yanaschool.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Yanaschool\Yanaschool\obj\Debug\Yanaschool.exe
+C:\Users\HP\source\repos\Yanaschool\Yanaschool\obj\Debug\Yanaschool.pdb
